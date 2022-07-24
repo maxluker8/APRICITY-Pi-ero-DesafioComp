@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+/* font-family: 'Montserrat', sans-serif; */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.text-center {
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar {
+    background-color: black;
+}
+.dropdown-menu {
+    background-color: black;
+}
+.dropdown-item {
+    color: white;
+}
+
+
+a {
+    color: aliceblue;
+}
+a:hover {
+    color: rosybrown;
+}
+
+.carousel-inner {
+    background-color: #fff;
+}
+h2 {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.card {
+    font-family: 'Montserrat', sans-serif;
+    padding: 15px;
+    margin: 20px;
+}
+.card-group {
+    margin-bottom: 50px;
+}
+
+.btn-primary {
+    background-color: black;
+    border: black solid 2px;
+}
+.btn-primary:hover {
+    background-color: #333;
+    color: rosybrown;
+    border: #333;
+}
+
+footer {
+    background-color: black;
+    padding: 10px;
+}
+h6 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+i {
+    color: white;
+    margin-bottom: 25px;
+}
+i:hover {
+    color: rosybrown;
+}
